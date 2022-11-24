@@ -10,7 +10,7 @@ export default new Vuex.Store({
   },
   getters: {
   },
-  //里面定义方法，操作state方发
+  //里面定义方法，操作state
   mutations: {
   },
   // 操作异步操作mutation

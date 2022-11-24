@@ -1,6 +1,8 @@
 <template>
   <div class="home">
+
     <img alt="Vue logo" src="../assets/logo.png">
+    <el-button>{{ msg }}</el-button>
     <HelloWorld :msg="msg"/>
   </div>
 </template>
